@@ -4,3 +4,4 @@ Token: A token is a piece of data that represents something else. In the case of
 A JWT is made up of three parts, separated by dots ('.'):
 1. Header 2. Payload 3.Signature
 # git repo.
+git is one type of tool to version control system.
