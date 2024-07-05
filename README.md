@@ -6,3 +6,5 @@ A JWT is made up of three parts, separated by dots ('.'):
 # git repo.
 git is one type of tool to version control system.
 github is one type of website same as git.
+# network
+A computer network is a collection of interconnected computers and other devices that communicate with each other to share resources and information. These networks can vary in size, complexity, and function, ranging from small home networks to vast global networks like the Internet.
