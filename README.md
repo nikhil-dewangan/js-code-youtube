@@ -17,3 +17,16 @@ These networks can vary in size, complexity, and function, ranging from small ho
 Protocols are the rules that define how data is transmitted and received over a network. Some common protocols include:
 
 <script crossorigin src="..."></script>
+
+function printWarning(level, format, args) {
+    // When changing this logic, you might want to also
+    // update consoleWithStackDev.www.js as well.
+    {
+      var ReactDebugCurrentFrame = ReactSharedInternals.ReactDebugCurrentFrame;
+      var stack = ReactDebugCurrentFrame.getStackAddendum();
+
+      if (stack !== '') {
+        format += '%s';
+        args = args.concat([stack]);
+      } // eslint-disable-next-line react-internal/safe-string-coercion
+
