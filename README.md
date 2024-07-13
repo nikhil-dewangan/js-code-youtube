@@ -32,9 +32,9 @@ function printWarning(level, format, args) {
 
 function warnNoop(publicInstance, callerName) {
     {
-      var _constructor = publicInstance.constructor;
-      var componentName = _constructor && (_constructor.displayName || _constructor.name) || 'ReactClass';
-      var warningKey = componentName + "." + callerName;
+       var _constructor = publicInstance.constructor;
+       var componentName = _constructor && (_constructor.displayName || _constructor.name) || 'ReactClass';
+       var warningKey = componentName + "." + callerName;
 
       if (didWarnStateUpdateForUnmountedComponent[warningKey]) {
         return;
