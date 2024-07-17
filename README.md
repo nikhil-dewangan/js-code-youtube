@@ -32,7 +32,7 @@ function printWarning(level, format, args) {
         args = args.concat([stack]);
       } // eslint-disable-next-line react-internal/safe-string-coercion
 
-function warnNoop(publicInstance, callerName) {
+# function warnNoop(publicInstance, callerName) {
     {
        var _constructor = publicInstance.constructor;
        var componentName = _constructor && (_constructor.displayName || _constructor.name) || 'ReactClass';
