@@ -6,6 +6,10 @@ A JWT is made up of three parts, separated by dots ('.'):
 1. Header
 2. 2. Payload
     3.  3.Signature
+const numbers = [1, 2, 3, 4];
+
+numbers.length // 4
+
 
 # git repo.
 1. git is one type of tool to version control system.
