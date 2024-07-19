@@ -12,6 +12,7 @@ const numbers = [1, 2, 3, 4];
 
 numbers.length // 4
 
+case "yellow":
 
 # git repo.
 1. git is one type of tool to version control system.
