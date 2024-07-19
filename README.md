@@ -25,6 +25,9 @@ These networks can vary in size, complexity, and function, ranging from small ho
 # Network Protocols
 Protocols are the rules that define how data is transmitted and received over a network. Some common protocols include:
 
+sana{
+
+}
 <script crossorigin src="..."></script>
 
 function printWarning(level, format, args) {
