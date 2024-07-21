@@ -9,7 +9,7 @@ A JWT is made up of three parts, separated by dots ('.'):
 
 Array:
 const numbers = [1, 2, 3, 4];
-
+array's are mutable and strings are immutable.
 
 string are immutables.
 numbers.length // 4
