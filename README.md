@@ -7,6 +7,7 @@ A JWT is made up of three parts, separated by dots ('.'):
 2. 2. Payload
     3.  3.Signature
 
+Get -childItem
 Array:
 const numbers = [1, 2, 3, 4];
 array's are mutable and strings are immutable.
