@@ -9,6 +9,7 @@ A JWT is made up of three parts, separated by dots ('.'):
 git -force
 Get -childItem
 git commit -m
+git push --help
 
 Array:
 const numbers = [1, 2, 3, 4];
