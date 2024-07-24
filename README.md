@@ -8,6 +8,8 @@ A JWT is made up of three parts, separated by dots ('.'):
     3.  3.Signature
 git -force
 Get -childItem
+git commit -m
+
 Array:
 const numbers = [1, 2, 3, 4];
 array's are mutable and strings are immutable.
