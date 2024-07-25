@@ -16,6 +16,10 @@ there is so many keyboard events but we mainly use 3:
 2. key up
 3. key press
 
+code =""
+key =""
+keycode =
+
 Array:
 const numbers = [1, 2, 3, 4];
 array's are mutable and strings are immutable.
