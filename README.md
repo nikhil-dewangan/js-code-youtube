@@ -10,6 +10,7 @@ git -force
 Get -childItem
 git commit -m
 git push --help
+function
 
 there is so many keyboard events but we mainly use 3:
 1. key down
