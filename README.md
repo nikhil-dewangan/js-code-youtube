@@ -32,6 +32,8 @@ numbers.length // 4
 
 case "yellow":
 
+for starting a project any where firstly we find a script.
+
 # git repo.
 1. git is one type of tool to version control system.
 2. github is one type of website same as git.
