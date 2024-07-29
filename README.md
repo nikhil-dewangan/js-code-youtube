@@ -10,6 +10,8 @@ git -force
 Get -childItem
 git commit -m
 git push --help
+
+for siblings we use [] array.
   
 function
 bigint
