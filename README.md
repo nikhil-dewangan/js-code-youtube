@@ -12,6 +12,8 @@ git commit -m
 git push --help
 
 for siblings we use [] array.
+
+parcel is pacakage manager. 
   
 function
 bigint
