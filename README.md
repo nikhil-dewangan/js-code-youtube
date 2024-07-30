@@ -25,6 +25,8 @@ code =""
 key =""
 keycode =
 
+jsx is convert code in reactcreaetelement. then it convert into js then html.
+
 Array:
 const numbers = [1, 2, 3, 4];
 array's are mutable and strings are immutable.
