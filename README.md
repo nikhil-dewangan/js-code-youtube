@@ -14,6 +14,7 @@ git push --help
 for siblings we use [] array.
 </Title>
 <Title></Title>
+<Title/>
 
 const arr = ()=> {
 return <h1> Array structure<h1/>
