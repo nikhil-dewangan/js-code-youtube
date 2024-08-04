@@ -13,6 +13,8 @@ git push --help
 
 for siblings we use [] array.
 <h4>{props.res-name}</h4>
+<Restaurent res-name=""
+    cusins =""/>
 </Title>
 <Title></Title>
 <Title/>
