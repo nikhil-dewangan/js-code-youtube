@@ -12,6 +12,7 @@ git commit -m
 git push --help
 
 for siblings we use [] array.
+<h4>{props.res-name}</h4>
 </Title>
 <Title></Title>
 <Title/>
