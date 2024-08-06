@@ -16,6 +16,8 @@ for siblings we use [] array.
 <Restaurent res-name=""
     cusins =""/>
 </Title>
+
+    const {resName, Cusins } = props
 <Title></Title>
 <Title/>
 
