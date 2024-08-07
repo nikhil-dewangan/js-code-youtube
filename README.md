@@ -19,6 +19,8 @@ for siblings we use [] array.
 
     const {resName, Cusins } = props
 <Title></Title>
+
+resdata= {restarents}/>
 <Title/>
 
 const arr = ()=> {
