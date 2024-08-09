@@ -23,6 +23,7 @@ for siblings we use [] array.
 resdata= {restarents}/>
 <Title/>
 
+
 const arr = ()=> {
 return <h1> Array structure<h1/>
 }
