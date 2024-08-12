@@ -17,6 +17,8 @@ for siblings we use [] array.
     cusins =""/>
 </Title>
 
+filter,map,reduces
+
     const {resName, Cusins } = props
 <Title></Title>
 
