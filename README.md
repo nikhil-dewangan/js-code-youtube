@@ -12,6 +12,7 @@ git commit -m
 git push --help
 parcel    web-pack  veet
 for siblings we use [] array.
+
 <h4>{props.res-name}</h4>
 <Restaurent res-name=""
     cusins =""/>
