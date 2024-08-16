@@ -13,6 +13,7 @@ git push --help
 parcel    web-pack  veet
 for siblings we use [] array.
 
+
 function and its storage in stack in lifo structure. 
 
 <h4>{props.res-name}</h4>
