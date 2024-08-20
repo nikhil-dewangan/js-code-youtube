@@ -14,7 +14,6 @@ parcel    web-pack  veet
 
 for siblings we use [] array.
 
-
 useState()
 function and its storage in stack in lifo structure. 
 
