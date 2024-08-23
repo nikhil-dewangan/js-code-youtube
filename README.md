@@ -17,6 +17,7 @@ for siblings we use [] array.
 useState()
 function and its storage in stack in lifo structure. 
 
+
 <h4>{props.res-name}</h4>
 <Restaurent res-name=""
     cusins =""/>
@@ -31,7 +32,6 @@ filter,map,reduces
 resdata= {restarents}/>
 
 <Title/>
-
 
 const arr = ()=> {
 return <h1> Array structure<h1/>
