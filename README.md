@@ -16,6 +16,8 @@ git push --help
 parcel    web-pack  veet
 for siblings we use [] array.
 
+to stop this phenomena we use clearInterval()
+
 useState()
 function and its storage in stack in lifo structure. 
 
