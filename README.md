@@ -13,7 +13,7 @@ Get -childItem
 {export =[]
   };
   closures
-  
+  git push()
 git commit -m
 git push --help
 parcel    web-pack  veet
