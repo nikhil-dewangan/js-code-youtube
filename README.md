@@ -9,6 +9,8 @@ A JWT is made up of three parts, separated by dots ('.'):
 
 git -force
 Get -childItem
+library 
+framework
 
 {export =[]
   };
