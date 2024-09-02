@@ -8,6 +8,10 @@ A JWT is made up of three parts, separated by dots ('.'):
 3. 3.Signature
 
 git -force
+
+function printNum(item){
+console.log(kn)
+}
 Get -childItem
 library 
 framework
