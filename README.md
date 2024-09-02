@@ -5,7 +5,7 @@ Token: A token is a piece of data that represents something else. In the case of
 A JWT is made up of three parts, separated by dots ('.'):
 1. Header
 2. 2. Payload
-    3.  3.Signature
+3. 3.Signature
 
 git -force
 Get -childItem
