@@ -10,7 +10,9 @@ A JWT is made up of three parts, separated by dots ('.'):
 4. git init
 file watching alofgrithm
 git -force
+
 map
+three type of bundler
 
 function printNum(item){
 console.log(kn)
