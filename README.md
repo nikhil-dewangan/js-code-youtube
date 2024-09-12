@@ -11,6 +11,7 @@ A JWT is made up of three parts, separated by dots ('.'):
 4. git init
 file watching alofgrithm
 git -force
+const jsxHead = <h1> Hello Git</h1>;
 
 map
 three type of bundler
