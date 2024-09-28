@@ -6,7 +6,8 @@ In the case of JWT, it's a secure way of transmitting information.
 A JWT is made up of three parts, separated by dots ('.'):
 1. Header
 2. 2. Payload
-  
+
+  manipultaing html with the help of java script 
 monolithic arctitecture
 3. 3.Signature
 4. git init
