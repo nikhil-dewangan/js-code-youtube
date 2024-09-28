@@ -10,6 +10,7 @@ A JWT is made up of three parts, separated by dots ('.'):
 monolithic arctitecture
 3. 3.Signature
 4. git init
+
 file watching alofgrithm
 git -force
 const jsxHead = <h1> Hello Git</h1>;
