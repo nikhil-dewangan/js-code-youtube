@@ -11,6 +11,7 @@ monolithic arctitecture
 3. 3.Signature
 4. git init
 
+console.dir(document)
 file watching alofgrithm
 git -force
 const jsxHead = <h1> Hello Git</h1>;
