@@ -11,6 +11,7 @@ A JWT is made up of three parts, separated by dots ('.'):
 monolithic arctitecture
 3. 3.Signature
 4. git init
+5. Perosnal Portfolio
 
 console.dir(document)
 file watching alofgrithm
