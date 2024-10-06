@@ -11,7 +11,6 @@ A JWT is made up of three parts, separated by dots ('.'):
 manipultaing html with the help of java script 
 monolithic arctitecture
 3. 3.Signature
-
 2. git process
 
 4. git init
