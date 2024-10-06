@@ -8,7 +8,7 @@ A JWT is made up of three parts, separated by dots ('.'):
 1. Header
 2. 2. Payload
 
-  manipultaing html with the help of java script 
+manipultaing html with the help of java script 
 monolithic arctitecture
 3. 3.Signature
 
