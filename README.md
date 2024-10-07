@@ -13,6 +13,8 @@ monolithic arctitecture
 3. 3.Signature
 2. git process
 
+Physical layer
+data link layer
 4. git init
 5. Perosnal Portfolio
 
