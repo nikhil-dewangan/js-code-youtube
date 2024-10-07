@@ -22,6 +22,8 @@ git -force
 const jsxHead = <h1> Hello Git</h1>;
 
 const root = ReactDOM.createRoot(document.getmElementById("root"));
+ring topology
+tree topology
 
 function newDb(data){
 
