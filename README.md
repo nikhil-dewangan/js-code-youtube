@@ -15,6 +15,7 @@ monolithic arctitecture
 
 Physical layer
 data link layer
+
 4. git init
 5. Perosnal Portfolio
 
