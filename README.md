@@ -27,8 +27,8 @@ const jsxHead = <h1> Hello Git</h1>;
 
 const root = ReactDOM.createRoot(document.getmElementById("root"));
 ring topology
-tree topology
 
+tree topology
 function newDb(data){
 
 }
@@ -40,6 +40,7 @@ three type of bundler
 function printNum(item){
 console.log(kn)
 }
+
 Get -childItem
 library 
 framework
@@ -50,9 +51,10 @@ for(const key of value);
 {export =[]
   };
   
-  closures
-  git push()
+closures
+git push()
 git commit -m
+
 git push --help
 parcel    web-pack  veet
 for siblings we use [] array.
