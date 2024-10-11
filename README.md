@@ -30,7 +30,6 @@ ring topology
 
 tree topology
 function newDb(data){
-
 }
 
 
