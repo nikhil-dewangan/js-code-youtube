@@ -52,9 +52,10 @@ for(const key of value);
   
 closures
 git push()
-git commit -m
 
+git commit -m
 git push --help
+
 parcel    web-pack  veet
 for siblings we use [] array.
 
