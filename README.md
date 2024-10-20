@@ -5,8 +5,8 @@ Token: A token is a piece of data that represents something else.
 In the case of JWT, it's a secure way of transmitting information.
 
 A JWT is made up of three parts, separated by dots ('.'):
-1. Header
-2. 2. Payload
+ 1. Header
+ 2. 2. Payload
 
 manipultaing html with the help of java script 
 monolithic arctitecture
