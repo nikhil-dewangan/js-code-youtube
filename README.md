@@ -13,6 +13,7 @@ monolithic arctitecture
 
 3. 3.Signature
 2. git process
+3. we have two same method for string search like search("") and IndexOf("") this two method are same but slightly difference between two methods.
 
 Physical layer
 data link layer
