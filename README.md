@@ -15,8 +15,8 @@ monolithic arctitecture
 2. git process
 3. we have two same method for string search like search("") and IndexOf("") this two method are same but slightly difference between two methods.
 
-Physical layer
-data link layer
+Physical layer()
+data link layer()
 
 4. git init
 5. Perosnal Portfolio
