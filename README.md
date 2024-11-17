@@ -11,7 +11,7 @@ A JWT is made up of three parts, separated by dots ('.'):
 manipultaing html with the help of java script 
 monolithic arctitecture
 
-3. 3.Signature
+3. 3.Signature some use full
 2. git process
 3. we have two same method for string search like search("") and IndexOf("") this two method are same but slightly difference between two methods.
 
