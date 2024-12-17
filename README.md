@@ -11,6 +11,9 @@ A JWT is made up of three parts, separated by dots ('.'):
 
 manipultaing html with the help of java script 
 monolithic arctitecture
+
+it consist two only single variable.
+
 an algorithm is aset of well defined i struction to solve a particular problem
 
 3. 3.Signature some use full
