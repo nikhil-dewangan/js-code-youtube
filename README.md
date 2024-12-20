@@ -14,6 +14,7 @@ monolithic arctitecture
 
 it consist two only single variable."
 num++; ++i;
+add git.
 
 an algorithm is aset of well defined i struction to solve a particular problem
 
