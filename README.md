@@ -11,7 +11,8 @@ A JWT is made up of three parts, separated by dots ('.'):
 
 manipultaing html with the help of java script 
 monolithic arctitecture
-asychonousr
+
+asychonousr:
 
 it consist two only single variable."
 num++; ++i;
