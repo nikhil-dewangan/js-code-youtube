@@ -13,8 +13,8 @@ manipultaing html with the help of java script
 monolithic arctitecture
 
 asychonousr:
-
 it consist two only single variable."
+
 num++; ++i;
 add git.
 
