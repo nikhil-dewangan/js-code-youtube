@@ -20,8 +20,8 @@ it consist two only single variable."
 num++; ++i;
 add git.
 
-an algorithm is aset of well defined i struction to solve a particular problem
 
+1. an algorithm is aset of well defined i struction to solve a particular problem.
 3. 3.Signature some use full
 2. git process
 3. we have two same method for string search like search("") and IndexOf("") this two method are same but slightly difference between two methods.
