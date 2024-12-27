@@ -8,7 +8,7 @@ A JWT is made up of three parts, separated by dots ('.'):
  
  1. Header
  2. 2. Payload
-    3. game changer
+    3. game changer;
  3. React Library
  4. Clousre
 
