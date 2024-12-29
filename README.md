@@ -12,8 +12,8 @@ A JWT is made up of three parts, separated by dots ('.'):
  3. React Library
  4. Clousre.
 
-manipultaing html with the help of java script 
-monolithic arctitecture
+=> manipultaing html with the help of java script 
+=> monolithic arctitecture
 
 asychonousr:
 it consist two only single variable."
