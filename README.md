@@ -10,7 +10,7 @@ A JWT is made up of three parts, separated by dots ('.'):
  2. 2. Payload
     3. game changer;
  3. React Library
- 4. Clousre
+ 4. Clousre.
 
 manipultaing html with the help of java script 
 monolithic arctitecture
