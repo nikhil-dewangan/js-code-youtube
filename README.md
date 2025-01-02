@@ -13,7 +13,8 @@ In the case of JWT, it's a secure way of transmitting information.
  4. Clousre.
 
 => manipultaing html with the help of java script 
-=> monolithic arctitecture
+=> monolithic arctitecture 
+Algorithm                Programs
 
 => asychonousr: React.js
 => it consist two only single variable."The Starting"
