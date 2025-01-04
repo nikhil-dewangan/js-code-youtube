@@ -16,7 +16,7 @@ In the case of JWT, it's a secure way of transmitting information.
 => monolithic arctitecture 
 Algorithm                  Programs
 dessign time               implementation time
-
+object                     keys
 => asychonousr: React.js
 => it consist two only single variable."The Starting"
 
