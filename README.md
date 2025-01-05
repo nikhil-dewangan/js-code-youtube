@@ -22,7 +22,7 @@ object                     keys
 
 num++; ++i;
 add git.
-git commit -m " add new meassge"
+git commit -m " message has updated "
 
 
 1. an algorithm is aset of well defined i struction to solve a particular problem.
