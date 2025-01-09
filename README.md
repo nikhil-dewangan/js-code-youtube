@@ -23,7 +23,7 @@ object                     keys
 
 jUser = {
 "name":"Nikhil"
-id: "123@abc"
+ id: "123@abc"
 }
 
 console.log(Object.key(jUser));
