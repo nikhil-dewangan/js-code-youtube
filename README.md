@@ -15,7 +15,7 @@ In the case of JWT, it's a secure way of transmitting information.
 => manipultaing html with the help of java script 
 => monolithic arctitecture :
 
-Algorithm                  Programs
+  Algorithm                  Programs
 dessign time               implementation time
 object                     keys
 
