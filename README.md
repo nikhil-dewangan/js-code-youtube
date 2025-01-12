@@ -24,7 +24,7 @@ object                     keys
 => it consist two only single variable."The Starting"
 
 jUser = {
-"name":"Nikhil"
+ "name":"Nikhil"
  id: "123@abc"
 }
 
