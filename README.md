@@ -42,7 +42,7 @@ console.log(Object.key(jUser));
 5. Perosnal Portfolio
 
 console.dir(document)
-file watching alofgrithm
+file watching algorithm
 
 git -force
 const jsxHead = <h1> Hello Git</h1>;
