@@ -28,7 +28,7 @@ jUser = {
   id: "123@abc"
 }
 
-console.log(Object.key(jUser));
+> console.log(Object.key(jUser));
 
 1. an algorithm is aset of well defined i struction to solve a particular problem.
 3. 3.Signature some use full
