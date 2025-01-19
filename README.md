@@ -27,7 +27,7 @@ object                     keys
 jUser = {
  "name":"Nikhil"
   id: "123@abc"
-  
+  npx parcel index.html
 }
 
 > console.log(Object.key(jUser));
