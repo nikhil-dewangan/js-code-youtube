@@ -22,7 +22,7 @@ dessign time               implementation time
 object                     keys
 
 => asychonousr: React.js
-=> it consist two only single variable."The Starting"
+=> it consist two only single variable." The Starting "
 
 jUser = {
 
