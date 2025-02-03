@@ -16,7 +16,7 @@ Structure Query language:-
 
 => manipultaing html with the help of java script 
 => monolithic arctitecture :
-
+  
 Algorithm                  Programs
 dessign time               implementation time
 object                     keys
