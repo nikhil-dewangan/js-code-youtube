@@ -13,7 +13,7 @@ In the case of JWT, it's a secure way of transmitting information.
  4. Clousre.              
         
 Structure Query language :-         
-
+    
 => manipultaing html with the help of java script 
 => monolithic arctitecture :-
   
