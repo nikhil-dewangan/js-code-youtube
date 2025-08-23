@@ -10,7 +10,7 @@ In the case of JWT, it's a secure way of transmitting information.
  2. 2. Payload                                                                                                                                                              
  3. game changer;                                                                                                                                                                             
  3. React Library                                                                                                                                                 
- 4. Clousre.                                                                                                               
+ 4. Clousre.                                                                                                                   
                                                                                     
 Structure Query language :- <componenet/>                                        
    ( inner text )                  
