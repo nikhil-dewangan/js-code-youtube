@@ -15,7 +15,7 @@ In the case of JWT, it's a secure way of transmitting information.
 Structure Query language :- <componenet/>                                        
    ( inner text )                     
 => manipultaing html with the help of java script          
-=> monolithic arctitecture :-       
+=> monolithic arctitecture :-          
   
 Algorithm                  Programs
 dessign time               implementation time
