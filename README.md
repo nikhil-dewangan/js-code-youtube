@@ -14,7 +14,7 @@ Structure Query language :- <componenet/>
     ( inner text )                     
 => manipultaing html with the help of java script          
 => monolithic arctitecture :-          
-  
+       
 Algorithm                  Programs
 dessign time               implementation time
 object                     keys
