@@ -10,7 +10,7 @@ In the case of JWT, it's a secure way of transmitting information.
  3.  React Library                                                                                                                                                                                                  
  4. Clousre.                                                                                                                                                                                                                                                                                 
 Structure Query language :- <componenet/>                                              
-     ( inner text )                          
+     ( inner text )                            
 => manipultaing html with the help of java script               
 => monolithic arctitecture :-          
        
