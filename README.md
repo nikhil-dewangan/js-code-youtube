@@ -8,7 +8,7 @@ In the case of JWT, it's a secure way of transmitting information.
                                                                                                                                                       
  1. Header                                                                                                                                                                                                           2.Payload                                                                                                                                                                                                           3. game changer;                                                      
  4.  React Library                                                                                                                                                                                                  
- 5. Clousre.                                                                                                                                                                                                                                                                                                
+ 5. Clousre.                                                                                                                                                                                                                                                                                                  
 Structure Query language :- <componenet/>                                                  
      ( inner text )                               
 => manipultaing html with the help of java script                      
