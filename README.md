@@ -26,7 +26,6 @@ jUser = {
   id: "123@abc"
   npx parcel index.html
 }
-
 > console.log( Object.key(jUser) );
 
 1. an algorithm is aset of well defined i struction to solve a particular problem.
